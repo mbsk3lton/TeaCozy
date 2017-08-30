@@ -48,18 +48,15 @@ a {
 	padding-top: 70px;
   width: 1200px;
   margin: auto;
-  background-color: black;
   }
-}
-.frame {
-  background-clip: border-box;
-}
+
 h2 h5 {
   font-weight: bold;
   display: block;
   text-align: center;
 }
 figure {
+
   display: inline-block;
 
   }
@@ -70,13 +67,14 @@ h2 h4 {
 }
 .location  {
   opacity: 1.0;
-	margin: 15px 20px;
+	margin: 20px;
 	background-image: url("../resources/images/locations.jpg");
   padding-top: 70px;
   text-align: center;
   height: 500px;
   width: 1200px;
   border-spacing: 40px;
+  align-items: center;
   }
 .flex-container2 {
   display: inline-block;
@@ -86,7 +84,7 @@ h2 h4 {
   max-height: 300px;
   max-width: 300px;
   text-align: center;
-  spacing: 40px 40px;
+  spacing: 40px;
   }
 .contact {
   height: 200px;

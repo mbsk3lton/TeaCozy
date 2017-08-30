@@ -43,7 +43,7 @@ a {
   font-size: 22px;
   }
 .Mission {
-  background-image: url("./resources/images/background.jpg");
+  background-image: url("../resources/images/background.jpg");
   height: 700px;
 	padding-top: 70px;
   width: 1200px;
@@ -68,7 +68,7 @@ h2 h4 {
 .location  {
   opacity: 1.0;
 	margin: 20px;
-	background-image: url("./resources/images/locations.jpg");
+	background-image: url("../resources/images/locations.jpg");
   padding-top: 70px;
   text-align: center;
   height: 500px;

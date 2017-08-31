@@ -59,34 +59,30 @@ h2 h4 {
   padding: 10px;
   margin: 0px;
 }
-.Margin {
-  height: 100px;
-  background-color: black;
-  width: 100%;
-  color: seashell;
-  align-self: center;
-  justify-content: center;
-}
+
 .location  {
-    align-items: center;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
     display: inline-block;
-    width: 1200px;
-    height: 500px;
+    opacity: 1.0;
+    margin: 20px;
+    padding-top: 70px;
+    text-align: center;
+    border-spacing: 40px;
+    align-items: stretch;
+    justify-content: space-around;
   }
 .flex-container2 {
+  background-image height: 100px;
+  background-image width: 100px;
 
   display: inline-block;
-  flex-grow: 1;
-  background-color: limegreen;
-  max-height: 300px;
-  max-width: 300px;
+
+  background-color: forestgreen;
+  height: 300px;
+  width: 300px;
   text-align: center;
-  spacing: 40px;
-  justify-content: flex-start;
+  spacing: 80px;
+
   }
 .contact {
   height: 200px;

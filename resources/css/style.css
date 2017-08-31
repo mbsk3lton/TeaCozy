@@ -72,7 +72,7 @@ h2 h4 {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     display: inline-block;
     width: 1200px;
     height: 500px;

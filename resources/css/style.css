@@ -9,7 +9,7 @@ opacity: 0.9;
 
 header  {
     display: flex;
-    width: 100%;
+    width: 95%;
     position: fixed;
     z-index: 1;
     height: 69px;
@@ -59,22 +59,34 @@ h2 h4 {
   padding: 10px;
   margin: 0px;
 }
+.Margin {
+  height: 100px;
+  background-color: black;
+  width: 100%;
+  color: seashell;
+  align-self: center;
+  justify-content: center;
+}
 .location  {
     align-items: center;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     flex-wrap: nowrap;
-    display: flex;
+    display: inline-block;
+    width: 1200px;
+    height: 500px;
   }
 .flex-container2 {
+
+  display: inline-block;
   flex-grow: 1;
-  background-color: green;
+  background-color: limegreen;
   max-height: 300px;
   max-width: 300px;
   text-align: center;
   spacing: 40px;
-  justify-content: center;
+  justify-content: flex-start;
   }
 .contact {
   height: 200px;

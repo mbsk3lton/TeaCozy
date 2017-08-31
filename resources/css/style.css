@@ -61,27 +61,27 @@ h2 h4 {
 }
 
 .location  {
-    flex-direction: row;
-    display: inline-block;
-    opacity: 1.0;
-    margin: 20px;
-    padding-top: 70px;
-    text-align: center;
-    border-spacing: 40px;
-    align-items: stretch;
-    justify-content: space-around;
-  }
+  display: block;
+  flex-flow: row nowrap;
+  opacity: 1.0;
+  margin: 20px;
+  padding-top: 70px;
+  text-align: inherit;
+  border-spacing: 40px;
+  align-items: center;
+  justify-content: space-around;
+  align-content: center;
+}
 .flex-container2 {
-  background-image height: 100px;
-  background-image width: 100px;
-
-  display: inline-block;
-
-  background-color: forestgreen;
-  height: 300px;
-  width: 300px;
-  text-align: center;
-  spacing: 80px;
+flex-grow: 1;
+align-self: center;
+display: inline-block;
+justify-content: center;
+background-color: forestgreen;
+height: 300px;
+width: 300px;
+text-align: center;
+spacing: 80px;
 
   }
 .contact {

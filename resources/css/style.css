@@ -42,13 +42,7 @@ a {
   text-decoration: underline;
   font-size: 22px;
   }
-.Mission {
-  background-image: url("../resources/images/background.jpg");
-  height: 700px;
-	padding-top: 70px;
-  width: 1200px;
-  margin: auto;
-  }
+
 
 h2 h5 {
   font-weight: bold;
@@ -66,25 +60,21 @@ h2 h4 {
   margin: 0px;
 }
 .location  {
-  opacity: 1.0;
-	margin: 20px;
-	background-image: url("../resources/images/locations.jpg");
-  padding-top: 70px;
-  text-align: center;
-  height: 500px;
-  width: 1200px;
-  border-spacing: 40px;
-  align-items: center;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    display: flex;
   }
 .flex-container2 {
-  display: inline-block;
-  justify-content: space-around;
-  align-items: flex-start;
-  background-color: black;
+  flex-grow: 1;
+  background-color: green;
   max-height: 300px;
   max-width: 300px;
   text-align: center;
   spacing: 40px;
+  justify-content: center;
   }
 .contact {
   height: 200px;

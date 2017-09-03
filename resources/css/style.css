@@ -100,8 +100,9 @@ background-image: url("../images/locations.jpg");
 }
 
 .flex-container2 {
+  margin-left: 20px;
   flex-flow: row nowrap;
-  margin-right: 40px;
+  margin-right: 20px;
   margin-top: 15px;
   display: inline-block;
   align-content: center;
@@ -110,12 +111,13 @@ background-image: url("../images/locations.jpg");
   width: 300px;
   text-align: center;
   opacity: 1;
-  justify-content: space-around;
+  justify-content: center;
   }
 .contact {
   height: 200px;
   vertical-align: middle;
   padding-left: 100px;
+  padding-right: 100px;
 }
 footer{
 	text-align: left;

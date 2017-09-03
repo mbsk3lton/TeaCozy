@@ -68,6 +68,7 @@ a {
 .tea {
   width: 1000px;
   text-align: center;
+  align-content: center;
 }
 h2 h5 {
   font-weight: bold;
@@ -97,15 +98,15 @@ h2 h4 {
 .flex-container2 {
   flex-grow: 1;
   flex-flow: row nowrap;
-margin-right: 40px;
-margin-top: 15px;
-display: inline-block;
-align-content: center;
-background-color: firebrick;
-height: 250px;
-width: 300px;
-text-align: center;
-opacity: 1;
+  margin-right: 40px;
+  margin-top: 15px;
+  display: inline-block;
+  align-content: center;
+  background-color: hotpink;
+  height: 250px;
+  width: 300px;
+  text-align: center;
+  opacity: 1;
   }
 .contact {
   height: 200px;

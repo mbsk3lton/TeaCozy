@@ -115,9 +115,9 @@ background-image: url("../images/locations.jpg");
   }
 .contact {
   height: 200px;
-  vertical-align: middle;
-  padding-left: 100px;
-  padding-right: 100px;
+  align-content: center;
+  text-align: center;
+
 }
 footer{
 	text-align: left;

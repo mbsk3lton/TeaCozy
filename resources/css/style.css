@@ -120,6 +120,7 @@ background-image: url("../images/locations.jpg");
   margin-top: 10px;
   justify-content: center;
   text-align: center;
+  padding-left: 100px;
 }
 #contact {
   height: 200px;

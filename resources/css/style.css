@@ -84,7 +84,7 @@ h2 h4 {
 }
 .flex-container2 {
 
-
+padding-top: 80px;
 display: inline-block;
 justify-content: center;
 background-color: black;

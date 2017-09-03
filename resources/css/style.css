@@ -72,6 +72,8 @@ h2 h5 {
   font-weight: bold;
   display: block;
   text-align: center;
+  align-self: center;
+  vertical-align: middle;
 }
 figure {
   margin: 10px;
@@ -114,11 +116,12 @@ background-image: url("../images/locations.jpg");
   justify-content: center;
   }
 .contact {
+  display: inline-block;
   height: 200px;
-  align-content: center;
+  width: 200px;
   text-align: center;
+  align-self: center;
   vertical-align: middle;
-  padding-left: 500px;
 }
 footer{
 	text-align: left;

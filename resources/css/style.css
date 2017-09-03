@@ -5,7 +5,7 @@ font-size: 22px;
 color: seashell;
 background-color: black;
 opacity: 0.9;
-padding-left: 100px;
+padding-left: auto 50px;
 }
 
 header  {
@@ -73,7 +73,7 @@ h2 h5 {
   display: block;
   text-align: center;
   align-self: center;
-  vertical-align: middle;
+
 }
 figure {
   margin: 10px;
@@ -85,8 +85,6 @@ h2 h4 {
   padding: 10px;
   margin: 0px;
   text-align: center;
-  align-self: center;
-  vertical-align: center;
 }
 
 .location {
@@ -118,10 +116,10 @@ background-image: url("../images/locations.jpg");
   justify-content: center;
   }
 .contact {
-  padding-left: 60px;
-  display: inline-block;
+  display: inline;
   height: 200px;
   width: 200px;
+  align-self: center;
 }
 footer{
 	text-align: left;

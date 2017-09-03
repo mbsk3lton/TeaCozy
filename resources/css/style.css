@@ -1,4 +1,4 @@
-* body {
+ body {
 text-align: center;
 font-family: Helvetica;
 font-size: 22px;
@@ -57,7 +57,7 @@ h2 h5 {
   text-align: center;
 }
 figure {
-
+  margin: 10px;
   display: inline-block;
 
   }
@@ -76,7 +76,6 @@ h2 h4 {
   margin: 20px;
   padding-top: 70px;
   text-align: center;
-  
   align-items: center;
   justify-content: space-around;
   align-content: center;
@@ -88,7 +87,7 @@ margin-right: 40px;
 padding-top: 80px;
 display: inline-block;
 justify-content: center;
-background-color: black;
+background-color: gray;
 height: 300px;
 width: 300px;
 text-align: center;

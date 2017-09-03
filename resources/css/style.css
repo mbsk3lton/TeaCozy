@@ -43,11 +43,12 @@ a {
   font-size: 22px;
 }
 .Mission {
-  background-image: url("../images/locations.jpg");
+  background-image: url("../images/background.jpg");
   height: 700px;
   width: 1200px;
   text-align: center;
   border: 1px solid black;
+  align-content: center;
   }
 .tea {
   width: 1200px;
@@ -96,6 +97,7 @@ text-align: center;
   }
 .contact {
   height: 200px;
+  text-align: center;
 }
 footer{
 	text-align: left;

@@ -120,10 +120,9 @@ background-image: url("../images/locations.jpg");
   margin-top: 10px;
   justify-content: center;
   text-align: center;
-  padding-left: 300px;
+  padding: auto;
 }
 #contact {
-  height: 200px;
   background-position: absolute;
   background-color: black;
   background-origin: border-box;

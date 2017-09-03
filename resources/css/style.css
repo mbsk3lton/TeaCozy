@@ -117,10 +117,15 @@ background-image: url("../images/locations.jpg");
   }
 .contact {
   height: 200px;
-  text-align: center;
-  align-self: center;
   margin-top: 10px;
-  padding-left: 100px;
+}
+#contact {
+  height: 200px;
+  background-position: absolute;
+  background-color: black;
+  background-origin: border-box;
+  top: 50%;
+  left: 50%;
 }
 footer{
 	text-align: left;

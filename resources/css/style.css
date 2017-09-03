@@ -116,6 +116,7 @@ background-image: url("../images/locations.jpg");
   justify-content: center;
   }
 .contact {
+  padding-left: 100px;
   display: inline-block;
   height: 200px;
   width: 200px;

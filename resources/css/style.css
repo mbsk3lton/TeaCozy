@@ -1,4 +1,4 @@
-body {
+* body {
 text-align: center;
 font-family: Helvetica;
 font-size: 22px;
@@ -83,16 +83,15 @@ h2 h4 {
   width: 1200px;
 }
 .flex-container2 {
-flex-grow: 1;
-align-self: center;
+
+
 display: inline-block;
 justify-content: center;
 background-color: black;
 height: 300px;
 width: 300px;
 text-align: center;
-spacing: 80px;
-align-content: center;
+align-items: center;
   }
 .contact {
   height: 200px;

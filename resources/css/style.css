@@ -68,7 +68,7 @@ a {
 .tea {
   width: 1000px;
   text-align: center;
-  align-content: center;
+  padding-left: 100px;
 }
 h2 h5 {
   font-weight: bold;
@@ -93,6 +93,9 @@ h2 h4 {
 .location {
   background-image: url("./images/locations.jpg");
   vertical-align: middle;
+  display: inline-block;
+  flex-flow: row wrap;
+
 }
 
 .flex-container2 {
@@ -102,11 +105,12 @@ h2 h4 {
   margin-top: 15px;
   display: inline-block;
   align-content: center;
-  background-color: hotpink;
+  background-color: purple;
   height: 250px;
   width: 300px;
   text-align: center;
   opacity: 1;
+
   }
 .contact {
   height: 200px;

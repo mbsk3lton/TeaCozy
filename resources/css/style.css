@@ -120,6 +120,7 @@ background-image: url("../images/locations.jpg");
   text-align: center;
   align-self: center;
   margin-top: 10px;
+  padding-left: 100px;
 }
 footer{
 	text-align: left;

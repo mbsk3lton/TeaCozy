@@ -121,6 +121,7 @@ background-image: url("../images/locations.jpg");
   text-align: center;
   }
 #contact {
+  position: relative;
   display: inline-block;
   background-color: black;
   align-self: center;

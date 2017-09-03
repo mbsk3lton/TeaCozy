@@ -18,7 +18,6 @@ header  {
     align-items: center;
     border-bottom: 1px solid seashell;
     color: seashell;
-
 }
 
 nav {
@@ -36,7 +35,6 @@ nav span {
   display: flex;
   flex-grow: 1;
   height: 50px;
-
 }
 a {
   color: seashell;
@@ -74,13 +72,11 @@ h2 h5 {
   font-weight: bold;
   display: block;
   text-align: center;
-
 }
 figure {
   margin: 10px;
   display: inline-block;
   align-content: center;
-
   }
 
 h2 h4 {
@@ -119,8 +115,7 @@ background-image: url("../images/locations.jpg");
 .contact {
   height: 200px;
   vertical-align: middle;
-
-
+  padding-left: 100px;
 }
 footer{
 	text-align: left;

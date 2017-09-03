@@ -126,6 +126,7 @@ background-image: url("../images/locations.jpg");
   background-origin: border-box;
   top: 50%;
   left: 50%;
+  text-align: center;
 }
 footer{
 	text-align: left;

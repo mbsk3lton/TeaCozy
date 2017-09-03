@@ -43,7 +43,7 @@ a {
   font-size: 22px;
 }
 .Mission {
-  background-image: url("../images/background.jpg");
+  background-image: url("../images/locations.jpg");
   height: 700px;
   width: 1200px;
   text-align: center;
@@ -69,6 +69,7 @@ figure {
 h2 h4 {
   padding: 10px;
   margin: 0px;
+  text-align: center;
 }
 
 }

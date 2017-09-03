@@ -91,21 +91,27 @@ h2 h4 {
 
 }
 .location {
-  background-image: url("./images/locations.jpg");
+  background-image: url("../images/locations.jpg");
+  background-position: center;
+  width: 1200px;
+  height: 500px;
+  flex-direction: row;
   vertical-align: middle;
-  display: inline-block;
-  flex-flow: row wrap;
+  padding-left: 100px;
+  margin: 20px;
+  padding-top: 70px;
+  text-align: center;
+  justify-content: space-around;
 
 }
 
 .flex-container2 {
-  flex-grow: 1;
   flex-flow: row nowrap;
   margin-right: 40px;
   margin-top: 15px;
   display: inline-block;
   align-content: center;
-  background-color: purple;
+  background-color: orange;
   height: 250px;
   width: 300px;
   text-align: center;

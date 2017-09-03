@@ -46,19 +46,23 @@ a {
   background-image: url("../images/background.jpg");
   height: 700px;
   width: 1200px;
+  text-align: center;
+  border: 1px solid black;
   }
 .tea {
   width: 1200px;
-
+  text-align: center;
 }
 h2 h5 {
   font-weight: bold;
   display: block;
   text-align: center;
+
 }
 figure {
   margin: 10px;
   display: inline-block;
+  align-content: center;
 
   }
 
@@ -69,18 +73,15 @@ h2 h4 {
 
 }
 .location  {
+  height: 500px;
+  width: 1200px;
   background-image: url("../images/locations.jpg");
   display: block;
   flex-flow: row nowrap;
-  opacity: 1;
+  opacity: 1.0;
   margin: 20px;
   padding-top: 70px;
-  text-align: center;
   align-items: center;
-  justify-content: space-around;
-  align-content: center;
-  height: 500px;
-  width: 1200px;
 }
 .flex-container2 {
 margin-right: 40px;

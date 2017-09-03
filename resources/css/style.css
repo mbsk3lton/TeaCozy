@@ -41,9 +41,16 @@ a {
   color: seashell;
   text-decoration: underline;
   font-size: 22px;
+}
+.Mission {
+  background-image: url("../images/background.jpg");
+  height: 700px;
+  width: 1200px;
   }
-
-
+.tea {
+  width: 1000px;
+  margin: 10px;
+}
 h2 h5 {
   font-weight: bold;
   display: block;
@@ -61,6 +68,7 @@ h2 h4 {
 }
 
 .location  {
+  background-image: url("../images/locations.jpg");
   display: block;
   flex-flow: row nowrap;
   opacity: 1.0;
@@ -71,18 +79,20 @@ h2 h4 {
   align-items: center;
   justify-content: space-around;
   align-content: center;
+  height: 500px;
+  width: 1200px;
 }
 .flex-container2 {
 flex-grow: 1;
 align-self: center;
 display: inline-block;
 justify-content: center;
-background-color: forestgreen;
+background-color: black;
 height: 300px;
 width: 300px;
 text-align: center;
 spacing: 80px;
-
+align-content: center;
   }
 .contact {
   height: 200px;

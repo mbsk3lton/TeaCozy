@@ -117,6 +117,7 @@ background-image: url("../images/locations.jpg");
   margin: 0 auto;
   display: block;
   text-align: center;
+  padding-left: 100px;
 }
 footer {
 	text-align: left;
